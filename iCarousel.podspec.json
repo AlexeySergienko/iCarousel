@@ -1,6 +1,6 @@
 {
   "name": "iCarousel",
-  "version": "1.8.2",
+  "version": "1.8.3",
   "license": {
     "type": "zlib",
     "file": "LICENCE.md"
@@ -20,5 +20,6 @@
   "platforms": {
     "ios": "4.3",
     "osx": "10.6"
+    "tvos": "9.0"
   }
 }
